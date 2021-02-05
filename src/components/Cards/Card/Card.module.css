@@ -1,0 +1,8 @@
+.card {
+  margin: 0 3% !important;
+}
+@media only screen and (max-width: 770px) {
+  .card {
+    margin: 3% 0 !important;
+  }
+}
